@@ -8,3 +8,5 @@ Pedro Lopes Queiroz – 1220200055
 
 
 Fonte da Base de dados: https://hackernoon.com/15-excel-datasets-for-data-analytics-beginners
+
+Professor: Nelson Vasconcellos
